@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @bmsampaio
-- 👀 I’m a computer science student
-- 🌱 I’m currently learning C
-- 📫 How to reach me "barbaramsampaio49@gmail.com"
+- 📐 Amante da matemática
+- 👀 Estudante de Ciência da Computação
+- 🌱 Desenvolvedora back-end
+- 📫 barbaramsampaio49@gmail.com
+- 📷 instagram: @b.m.sampaio
 
 <!---
 bmsampaio/bmsampaio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
