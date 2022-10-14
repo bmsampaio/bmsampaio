@@ -1,6 +1,5 @@
 - 📐 Amante da matemática
 - 👀 Estudante de Ciência da Computação
-- 🌱 Desenvolvedora backend
 - 📫 barbaramsampaio49@gmail.com
 - 📷 instagram: @b.m.sampaio
 
