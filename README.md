@@ -1,6 +1,7 @@
 ## Olá! Eu sou a Bárbara 👋🏻 
 
   ![Barbara GitHub stats](https://github-readme-stats.vercel.app/api?username=bmsampaio&show_icons=true&theme=dracula&count_private=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmsampaio)](https://github.com/anuraghazra/github-readme-stats)
  ##
   <div> 
   <a href="https://instagram.com/b.m.sampaio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
