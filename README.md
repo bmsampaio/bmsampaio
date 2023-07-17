@@ -1,5 +1,11 @@
 ## Olá! Eu sou a Bárbara 👋🏻 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/b.m.sampaio)
+<div> 
+  <a href="https://instagram.com/b.m.sampaio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:barbaramsampaio49@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/barbaramsampaio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  ##
+  
 
 
-![Barbara GitHub stats](https://github-readme-stats.vercel.app/api?username=bmsampaio&show_icons=true&theme=omni&count_private=true)
+![Barbara GitHub stats](https://github-readme-stats.vercel.app/api?username=bmsampaio&show_icons=true&theme=dracula&count_private=true)
