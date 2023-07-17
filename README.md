@@ -1,9 +1,9 @@
 ## Olá! Eu sou a Bárbara 👋🏻 
 
 <div> 
-  <a href="https://github.com/bmsampaio>
-    <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=bmsampaio&show_icons=true&theme=dracula&count_private=true">
-    <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=bmsampaio&show_icons=true&theme=dracula&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=bmsampaio&layout=compact&theme=dracula)](https://github.com/bmsampaio/github-readme-stats)">
+  <a href="https://github.com/bmsampaio></a>
+    <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=bmsampaio&show_icons=true&theme=dracula&count_private=true" >
+    <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=bmsampaio&show_icons=true&theme=dracula&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=bmsampaio&layout=compact&theme=dracula)](https://github.com/bmsampaio/github-readme-stats)" >
  
 </div>
 ##
