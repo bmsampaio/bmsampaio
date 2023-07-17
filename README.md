@@ -1,7 +1,5 @@
 ## Olá! Eu sou a Bárbara 👋🏻 
 
-  ##
-  
   ![Barbara GitHub stats](https://github-readme-stats.vercel.app/api?username=bmsampaio&show_icons=true&theme=dracula&count_private=true)
 
  ##
