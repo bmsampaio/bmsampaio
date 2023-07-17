@@ -1,9 +1,4 @@
-- 📐 Amante da matemática
-- 👀 Estudante de Ciência da Computação
-- 📫 barbaramsampaio49@gmail.com
-- 📷 instagram: @b.m.sampaio
+## Olá! Eu sou a Bárbara 👋🏻 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/b.m.sampaio)
 
-<!---
-bmsampaio/bmsampaio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![Barbara GitHub stats](https://github-readme-stats.vercel.app/api?username=b.m.sampaio&show_icons=true&theme=omni&count_private=true)
