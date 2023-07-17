@@ -14,4 +14,5 @@
   <img align="center" alt="Barbara-java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Barbara-linux" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
 </div>
+
 ![snake gif](https://github.com/bmsampaio/bmsampaio/blob/output/github-contribution-grid-snake.svg)
