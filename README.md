@@ -1,8 +1,12 @@
 ## Olá! Eu sou a Bárbara 👋🏻 
 
-  ![Barbara GitHub stats](https://github-readme-stats.vercel.app/api?username=bmsampaio&show_icons=true&theme=dracula&count_private=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmsampaio&layout=compact&theme=dracula)](https://github.com/bmsampaio/github-readme-stats)
- ##
+<div> 
+  <a href="https://github.com/bmsampaio>
+    <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=bmsampaio&show_icons=true&theme=dracula&count_private=true">
+    <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=bmsampaio&show_icons=true&theme=dracula&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=bmsampaio&layout=compact&theme=dracula)](https://github.com/bmsampaio/github-readme-stats)">
+ 
+</div>
+##
   <div> 
   <a href="https://instagram.com/b.m.sampaio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:barbaramsampaio49@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
