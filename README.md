@@ -3,7 +3,7 @@
 <a href="https://github.com/bmsampaio/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmsampaio&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/bmsampaio/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmsampaio&repo=convoychat" />
 </a>
 
