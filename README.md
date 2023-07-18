@@ -8,9 +8,6 @@
 </a>
  </div>
 
-
-[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmsampaio&show_icons=true&theme=dracula)](https://github.com/bmsampaio/github-readme-stats) [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmsampaio&theme=dracula&layout=compact)](https://github.com/bmsampaio/github-readme-stats)
- 
 ##
   <div> 
   <a href="https://instagram.com/b.m.sampaio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
