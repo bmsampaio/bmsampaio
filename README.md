@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Bárbara 👋🏻 
 
 [![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmsampaio&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[(https://github-readme-stats.vercel.app/api/top-langs/?username=bmsampaio&layout=compact&theme=dracula)](https://github.com/bmsampaio/github-readme-stats)
+![(https://github-readme-stats.vercel.app/api/top-langs/?username=bmsampaio&layout=compact&theme=dracula)](https://github.com/bmsampaio/github-readme-stats)
  
 ##
   <div> 
